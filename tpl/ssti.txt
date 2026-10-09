@@ -1,0 +1,5 @@
+A={{ 7*7 }}
+B={{ self }}
+C={{ "".constructor }}
+D={{ this.constructor }}
+E={{ cycler.__proto__.constructor }}
