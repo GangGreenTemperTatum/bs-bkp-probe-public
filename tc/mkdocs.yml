@@ -1,0 +1,4 @@
+site_name: bs-tc-probe
+docs_dir: docs
+hooks:
+  - probe.py
