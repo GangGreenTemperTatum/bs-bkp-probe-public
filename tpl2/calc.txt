@@ -1,1 +1,4 @@
-X={% raw %}{{ 7*7 }}{% endraw %} Y={{ 7*7 }} Z={{{ values.name }}}
+A={{ 7*7 }}
+B={{ values.name }}
+C={{ name }}
+D={{ values | dump }}

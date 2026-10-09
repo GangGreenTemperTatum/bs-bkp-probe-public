@@ -1,1 +1,0 @@
-{{ values.name }}|{{ name }}|{{ parameters.name }}|{{ values | dump }}
